@@ -1,9 +1,9 @@
 # Banking Customer Storage and Retrieval 
 
-###Description
+### Description
 a C++ project using pointer-based binary search trees to store and retrieve bank customer created for Summer 2019's CMPT 225: Data Structures and Programming class.
 
-###Functionality
+### Functionality
 Customers have a last name, first initial and account balance. The class allows for customers to be...
 * Compared using <, <=, >, >=, ==, and != alphabetically, by last name, and then first initial
 * Printed using a simple cout call on the class
